@@ -1,4 +1,4 @@
-# stream-llm
+# Stream LLM
 
 > A modern, dependency-free TypeScript library for **Server-Sent Events (SSE)**, optimized for streaming LLM responses.
 
